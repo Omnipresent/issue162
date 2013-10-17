@@ -1,4 +1,4 @@
-This is a sample project for reproducing issue162 in formotion. 
+This is a sample project for reproducing issue162 in formotion : https://github.com/clayallsopp/formotion/issues/162
 
 Below are the environment details:
 
